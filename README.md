@@ -1,9 +1,10 @@
-# chess-es6.js
-A rewrite of https://github.com/jhlywa/chess.js/ in es6.  Added the ability for parsing PGN variations, as well as traversing said move tree. 
+# Chess-es6.js
+A rewrite of <a href="https://github.com/jhlywa/chess.js/">Chess.js</a> in ES6.  
 
 # Contents 
-Chess library to determinate movements are legal
-Parsing PGN files and variations
+JavaScript chess library to determinate legal chess movements.
+Utilities:
+Parsing PGN files and variations.
 
 Usage:
 
